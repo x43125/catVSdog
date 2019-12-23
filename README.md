@@ -8,3 +8,9 @@
 ## commit from windows
 	找到了原版
 >>>>>>> dev
+
+
+
+## Windows pytorch 安装成功
+
+run出错
